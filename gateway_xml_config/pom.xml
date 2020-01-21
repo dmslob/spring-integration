@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <spring.version>5.0.1.RELEASE</spring.version>
+        <spring.version>5.2.3.RELEASE</spring.version>
         <spring.integration.version>5.0.1.RELEASE</spring.integration.version>
         <servlet-api.version>2.5</servlet-api.version>
         <jackson.version>1.9.12</jackson.version>
